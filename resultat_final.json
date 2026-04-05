@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "nomclient": "Mohamed Ben Ali",
+    "date": "10/02/2024",
+    "montant": 15000,
+    "analyse": "Transaction normale",
+    "risque": "Faible"
+  },
+  {
+    "id": "002",
+    "nomclient": "Sara Trabelsi",
+    "date": "15/03/2024",
+    "montant": 8500,
+    "analyse": "Transaction normale",
+    "risque": "Faible"
+  },
+  {
+    "id": "003",
+    "nomclient": "Karim Mansouri",
+    "date": "22/04/2024",
+    "montant": 32000,
+    "analyse": "Transaction à surveiller",
+    "risque": "Élevé"
+  }
+]

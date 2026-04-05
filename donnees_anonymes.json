@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "nomclient": "CLIENT_001",
+    "date": "DATE_001",
+    "montant": 15000,
+    "directeur": "DIR_001"
+  },
+  {
+    "id": "002",
+    "nomclient": "CLIENT_002",
+    "date": "DATE_002",
+    "montant": 8500,
+    "directeur": "DIR_002"
+  },
+  {
+    "id": "003",
+    "nomclient": "CLIENT_003",
+    "date": "DATE_003",
+    "montant": 32000,
+    "directeur": "DIR_003"
+  }
+]
